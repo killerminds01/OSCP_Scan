@@ -14,8 +14,7 @@ sshrecon.py
 This collection of scripts is intended to be executed remotely against a list of IPs to enumerate discovered 
 services such as smb, smtp, snmp, ftp and other.
 
-Author: 
-Mike Czumak (T_v3rn1x) -- @SecuritySift
+Original Author: Mike Czumak (T_v3rn1x) -- @SecuritySift
 
 How to use:
 reconscan.py is the main script which calls all other scripts. Simply run it and it should do the work for you.
